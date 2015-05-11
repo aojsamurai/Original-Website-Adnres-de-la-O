@@ -1,0 +1,30 @@
+/* TEAM */
+	Web Designer:Andrés de la O Jiménez
+	Contact: andres@andresdelao.com
+	Twitter: @aojsamurai
+	From: Ciudad de México, México
+
+
+/* THANKS */
+
+	(First) Support: Jonathan Mircha
+	Twitter: @jonmircha
+	From: Ciudad de México, México
+
+	Support: Emanuel Ayala
+	Twitter: @jeamexicano
+	From: Ciudad de México, México
+
+	Editor: Katia Torres
+	From: Ciudad de México, México
+
+	EN Translator: Katia Torres Fragoso
+	Twitter: @katia_aquitania
+	From: Ciudad de México, México
+			
+
+/* SITE */
+	Last update:2012/09/25
+	Language:English / Castellano
+	Doctype:HTML5
+	IDE: Sublime Text, FileZilla, Photoshop, Illustrator
